@@ -1,3 +1,4 @@
+'''yanghuisanjiao'''
 def yanghui(m, n):
     if n > m:
         print 'invalid query'
